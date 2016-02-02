@@ -1,2 +1,2 @@
 # Essai
-Essai modifié par git1 par git2 par git1 par git3 - nouvel essai
+Essai modifié par git1 par git2 par git1 par git3 - nouvelle modif
